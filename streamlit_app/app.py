@@ -1,4 +1,5 @@
 from __future__ import annotations
+import streamlit_app
 
 import sys
 import subprocess
